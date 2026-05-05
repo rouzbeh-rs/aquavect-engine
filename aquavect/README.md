@@ -117,8 +117,6 @@ This engine implements the simulation framework from:
 
 1. **"Does Network Position Amplify Manufactured Agnotology?"** — Establishes that high-centrality biased agents cause significantly more epistemic damage than low-centrality ones (d = 1.36), with degree centrality as the best predictor (R² = .82).
 
-2. **"Does Market Aggregation Protect or Amplify Manufactured Agnotology?"** — Shows that market-like aggregators provide weak protection (d = −0.05 for high-centrality bias), do not flatten the position effect, and that median aggregation substantially outperforms mean.
-
 ## License
 
 MIT
