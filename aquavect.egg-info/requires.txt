@@ -1,0 +1,14 @@
+numpy>=1.24
+networkx>=3.0
+scipy>=1.10
+
+[dev]
+pytest>=7.0
+pytest-cov>=4.0
+
+[full]
+pandas>=2.0
+pyarrow>=12.0
+matplotlib>=3.7
+tqdm>=4.65
+joblib>=1.3
