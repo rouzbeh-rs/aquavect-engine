@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/aquavect-engine-banner.png" alt="Aquavect Engine" />
+</p>
+
+
 # Aquavect
 
 **Agent-based network epistemology simulation engine.**
