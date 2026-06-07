@@ -146,7 +146,6 @@ scores = suite.compute_scores(results)
 See the `examples/` directory:
 
 - `reproduce_paper1.py` — Reproduces the position effect (d ≈ 1.36)
-- `reproduce_paper2.py` — Reproduces the aggregator protection finding
 - `generate_dataset.py` — Full data generation pipeline demo
 
 ## Tests
