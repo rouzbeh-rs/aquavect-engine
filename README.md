@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/aquavect-engine-banner.png" alt="Aquavect Engine" />
+  <img src="aquavect-engine-banner.png" alt="Aquavect Engine" />
 </p>
 
 
