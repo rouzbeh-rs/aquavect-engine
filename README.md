@@ -159,8 +159,6 @@ pytest tests/ -v
 
 1. **"Does Network Position Amplify Manufactured Agnotology?"** — High-centrality biased agents cause significantly more epistemic damage (d = 1.36), with degree centrality as the best predictor (R² = .82).
 
-2. **"Does Market Aggregation Protect or Amplify Manufactured Agnotology?"** — Market-like aggregators provide weak protection (d = −0.05), do not flatten the position effect, and median aggregation substantially outperforms mean.
-
 ## License
 
 MIT
