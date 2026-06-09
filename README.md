@@ -154,9 +154,6 @@ See the `examples/` directory:
 pytest tests/ -v
 ```
 
-## Research Papers
-
-1. **"Does Network Position Amplify Manufactured Agnotology?"** — High-centrality biased agents cause significantly more epistemic damage (d = 1.36), with degree centrality as the best predictor (R² = .82).
 
 ## License
 
