@@ -91,7 +91,7 @@ save_training_data(examples, "my_data/training_data.jsonl")
 ```
 
 Three sampling strategies ensure diverse coverage:
-- **Systematic** (50%): Grid over canonical parameters from Papers 1 & 2
+- **Systematic** (50%): Grid over canonical parameters
 - **Random** (30%): Randomized topologies and parameters for generalization
 - **Targeted** (20%): Configurations near known phase transitions
 
